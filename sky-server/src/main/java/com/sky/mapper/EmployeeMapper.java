@@ -25,4 +25,8 @@ public interface EmployeeMapper {
 
 //    分页查询的方法
     Page<Employee> pageQuery(EmployeePageQueryDTO employeePageQueryDTO);
+
+    void update(Employee employee);
+
+    Employee getById(long id);
 }
