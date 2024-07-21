@@ -6,3 +6,9 @@ sky:
     database: sky_take_out
     username: root
     password: 1234567hjkw
+
+#  alioss:
+#    endpoint: oss-cn-hangzhou.aliyuncs.com
+##    access-key-id: LTAI5t97GpJoGNRADD9e45kV
+##    access-key-secret: oEC7Id5KlItacI3ciqiJOheybzHJJW
+#    bucket-name: mirage123
